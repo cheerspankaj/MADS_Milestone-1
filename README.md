@@ -1,5 +1,5 @@
 # Exploring effect on child's education due to school closure due to COVID-19 pandemic
-## <img width="400" height="400" alt="Screenshot 2023-04-17 at 6 18 57 PM" src="https://user-images.githubusercontent.com/108576861/232935357-dc2101b3-0aac-420d-8aa6-16e0da3f3ed9.png">  <img width="400" height="400" alt="Screenshot 2023-04-17 at 6 29 28 PM" src="https://data.unicef.org/covid-19-and-children/wp-content/uploads/sites/3/2021/09/UN0500343-e1631289570701.jpg">
+## <img width="600" height="400" alt="Screenshot 2023-04-17 at 6 29 28 PM" src="https://data.unicef.org/covid-19-and-children/wp-content/uploads/sites/3/2021/09/UN0500343-e1631289570701.jpg">
 
 Image source Link:https://data.unicef.org/covid-19-and-children/
 
@@ -15,9 +15,8 @@ By analyzing and visualizing this data, the project aims to shed light on the ex
 
 ## Datasets
 
-The primary dataset details the status of school closures by region and country.
+Primary dataset: The primary dataset details the status of school closures by region and country.
 
-Primary dataset: Publicly available
 Link: https://covid19.uis.unesco.org/global-monitoring-school-closures-covid19/
 
 Secondary dataset : The datasets have information about the country's GDP over time.
@@ -44,6 +43,11 @@ Generic steps.
 ## Analysis and Visualizations
 
 Following analysis and data visualizations were created for understanding the school closures impact.
+### longest and shortest school closures period from February 2020 to October 2021 using time series analysis
+![image](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/685df507-f15d-48e0-9347-c195d7d06cc2)
+![image](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/03a7c10b-7c46-443b-83b4-0b6dfa14e26c)
+
+
 
 
 Project Git Repository link - https://github.com/cheerspankaj/MADS_Milestone-1
