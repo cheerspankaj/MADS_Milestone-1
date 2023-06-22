@@ -44,7 +44,7 @@ Generic steps.
 
 Following analysis and data visualizations were created for understanding the school closures impact.
 ### longest and shortest school closures period from February 2020 to October 2021 using time series analysis
-<img src="/Users/pankaj/Documents/Learning/MADS/12_591:592_Milestone-1/Pictures" alt="Title" width="500" height="300">
+<img src="/Users/pankaj/Documents/Learning/MADS/12_591:592_Milestone-1/Pictures/Picture1.png" alt="Title" width="500" height="300">
 
 
 
