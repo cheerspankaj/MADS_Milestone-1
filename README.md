@@ -51,6 +51,12 @@ Bangladesh has been highly impacted with 439 days of Fully Closed school
 
 <img width="999" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15">
 
+<div>
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731" alt="Image 1" width="400" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15" alt="Image 2" width="400" />
+</div>
+
+
 Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021
 
 
