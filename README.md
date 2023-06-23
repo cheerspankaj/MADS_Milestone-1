@@ -45,19 +45,13 @@ The data manipulation steps include:
 
 Following analysis and data visualizations were created for understanding the school closures impact.
 
-<img width="935" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731">
-
-Bangladesh has been highly impacted with 439 days of Fully Closed school
-
-<img width="999" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15">
-
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731" alt="Image 1" width="400" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15" alt="Image 2" width="400" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731" alt="Image 1" width="450" height="400"/>
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15" alt="Image 2" width="450" height="400"/>
 </div>
 
-
-Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021
+- Bangladesh has been highly impacted with 439 days of Fully Closed school
+- Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021
 
 
 <img width="910" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a86c80b-d273-4e75-8fab-9b8d40baff63">
