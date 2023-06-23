@@ -53,10 +53,15 @@ Following analysis and data visualizations were created for understanding the sc
 - Bangladesh has been highly impacted with 439 days of Fully Closed school
 - Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021
 
+<div>
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a86c80b-d273-4e75-8fab-9b8d40baff63" alt="Image 1" width="400" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/69a5dcc3-f83b-401b-b96e-fd176e453cce" alt="Image 2" width="400" />
+</div>
 
-<img width="910" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a86c80b-d273-4e75-8fab-9b8d40baff63">
 
-The United States has been highly impacted with 465 days of “Partially Opened” school
+- The United States has been highly impacted with 465 days of “Partially Opened” school
+- Duration wise the United States, Argentina, and Colombia had longest continued partially opened status for close to 3 quarters
+
 
 
 
