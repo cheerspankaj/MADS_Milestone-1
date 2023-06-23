@@ -109,5 +109,4 @@ Globally 289.5 Billion Student-Days were impacted due to fully closed schools as
 - Based on correlation matrix and value of Correlation coefficient (R), there seems to be a weak positive correlation between GDP and School closure.
 - Overall pandemic has impacted across the globe irrespective of countries GDP status with Children's education being impacted badly globally due to school closures.
 
-
 Project Git Repository link - https://github.com/cheerspankaj/MADS_Milestone-1
