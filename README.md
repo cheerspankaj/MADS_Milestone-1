@@ -76,7 +76,7 @@ Following analysis and data visualizations were created for understanding the sc
 </div>
 
 - Algeria and Croatia with 14 days of partially opened school status were in the top for the “shortest partially opened” status. 
-- The shortest partially opened duration was observed in June 2020 and Nov 2020 for Croatia and Algeria
+- The shortest partially opened duration was observed in June 2020 and Nov 2020 for Croatia and Algeria.
 
 <img width="900" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/14e2e8c0-339a-4d27-8d18-69ba5aa296f9">
 
@@ -90,7 +90,7 @@ Source: https://data.unicef.org/resources/one-year-of-covid-19-and-school-closur
 
 ![image](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/8f15a36b-e4ca-4b56-9f51-b0b085a8885c)
 
-### children days fully closed impacted by shutdowns
+### Children Days Fully Closed Impacted By Shutdowns
 
 <div>
     <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/3c61f9f7-ee6f-4a17-9675-0511af6b505c" alt="Image 1" width="450" />
@@ -98,6 +98,16 @@ Source: https://data.unicef.org/resources/one-year-of-covid-19-and-school-closur
 </div>
 
 Globally 289.5 Billion Student-Days were impacted due to fully closed schools as of October 31, 2021
+
+### Correlation Between School Closure vs Relative GDP
+
+<div>
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/c5af4f7e-53f8-468b-b7e6-23598c9e8db4" alt="Image 1" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/809471a7-8ac7-440c-a82a-99cfb5b3f8b2" alt="Image 2" width="450" />
+</div>
+
+- Based on correlation matrix and value of Correlation coefficient (R), there seems to be a weak positive correlation between GDP and School closure.
+- Overall pandemic has impacted across the globe irrespective of countries GDP status with Children's education being impacted badly globally due to school closures.
 
 
 Project Git Repository link - https://github.com/cheerspankaj/MADS_Milestone-1
