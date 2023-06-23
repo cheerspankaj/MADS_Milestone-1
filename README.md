@@ -47,13 +47,15 @@ Following analysis and data visualizations were created for understanding the sc
 
 ## Countries with Longest Fully Closed schools between Feb-2020 and Oct-2021
 
-![Image 1]("https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/dd1daca1-8dc1-40dd-a0f8-16c62e0960c5")
+![image](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/40ad02ba-1bdf-4ccf-956e-105a8cf4429c)
+
 
 Bangladesh has been highly impacted with 439 days of Fully Closed school.
 
 ## Top 10 Countries with Longest School Closure between Feb-2020 and Oct-2021
 
-![Image 2]([image2.jpg](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/f8abdf08-43b4-4c3f-8b07-4381100e44f0))
+![image](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/7684112f-70c9-42d7-861e-b12a1565fa75)
+
 
 Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021.
 
