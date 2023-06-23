@@ -45,16 +45,11 @@ The data manipulation steps include:
 
 Following analysis and data visualizations were created for understanding the school closures impact.
 
-## Countries with Longest Fully Closed schools between Feb-2020 and Oct-2021
-
 <img width="935" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731">
 
 Bangladesh has been highly impacted with 439 days of Fully Closed school.
 
-## Top 10 Countries with Longest School Closure between Feb-2020 and Oct-2021
-
-![image](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/7684112f-70c9-42d7-861e-b12a1565fa75)
-
+<img width="999" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15">
 
 Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021.
 
