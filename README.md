@@ -45,10 +45,9 @@ The data manipulation steps include:
 
 Following analysis and data visualizations were created for understanding the school closures impact.
 
-<div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/dd1daca1-8dc1-40dd-a0f8-16c62e0960c5" alt="Image 1" width="400" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/f8abdf08-43b4-4c3f-8b07-4381100e44f0" alt="Image 2" width="400" />
-</div>
+<img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/dd1daca1-8dc1-40dd-a0f8-16c62e0960c5" alt="Image 1" width="400" />
+
+<img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/f8abdf08-43b4-4c3f-8b07-4381100e44f0" alt="Image 2" width="400" />
 
 
 
