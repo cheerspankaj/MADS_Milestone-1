@@ -78,7 +78,7 @@ Following analysis and data visualizations were created for understanding the sc
 - Algeria and Croatia with 14 days of partially opened school status were in the top for the “shortest partially opened” status. 
 - The shortest partially opened duration was observed in June 2020 and Nov 2020 for Croatia and Algeria
 
-<img width="974" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/14e2e8c0-339a-4d27-8d18-69ba5aa296f9">
+<img width="900" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/14e2e8c0-339a-4d27-8d18-69ba5aa296f9">
 
 Belarus, Burundi, Nauru and Tajikistan did not have school closures due to Covid-19
 
@@ -86,7 +86,9 @@ The trend of the global school closures status for different statuses were obser
 
 Source: https://data.unicef.org/resources/one-year-of-covid-19-and-school-closures/
 
-<img width="974" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/b06e869c-89ea-41e8-b73f-596d8c6ab422">
+<img width="900" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/b06e869c-89ea-41e8-b73f-596d8c6ab422">
+
+<img width="900" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/8f15a36b-e4ca-4b56-9f51-b0b085a8885c">
 
 ![image](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/8f15a36b-e4ca-4b56-9f51-b0b085a8885c)
 
