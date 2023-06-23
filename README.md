@@ -102,8 +102,8 @@ Globally 289.5 Billion Student-Days were impacted due to fully closed schools as
 ### Correlation Between School Closure vs Relative GDP
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/c5af4f7e-53f8-468b-b7e6-23598c9e8db4" alt="Image 1" width="450" height="350" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/809471a7-8ac7-440c-a82a-99cfb5b3f8b2" alt="Image 2" width="450" height="350" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/c5af4f7e-53f8-468b-b7e6-23598c9e8db4" alt="Image 1" width="450" height="300" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/809471a7-8ac7-440c-a82a-99cfb5b3f8b2" alt="Image 2" width="450" height="300" />
 </div>
 
 - Based on correlation matrix and value of Correlation coefficient (R), there seems to be a weak positive correlation between GDP and School closure.
