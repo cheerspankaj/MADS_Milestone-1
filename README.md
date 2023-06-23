@@ -54,15 +54,41 @@ Following analysis and data visualizations were created for understanding the sc
 - Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a86c80b-d273-4e75-8fab-9b8d40baff63" alt="Image 1" width="400" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/69a5dcc3-f83b-401b-b96e-fd176e453cce" alt="Image 2" width="400" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a86c80b-d273-4e75-8fab-9b8d40baff63" alt="Image 1" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/69a5dcc3-f83b-401b-b96e-fd176e453cce" alt="Image 2" width="450" />
 </div>
 
 
 - The United States has been highly impacted with 465 days of “Partially Opened” school
 - Duration wise the United States, Argentina, and Colombia had longest continued partially opened status for close to 3 quarters
 
+<div>
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/1520f09b-9b37-4a2d-a116-0fdba3ad10df" alt="Image 1" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a8369a1-142d-44ae-86dd-fbfc5f4ba52d" alt="Image 2" width="450" />
+</div>
 
+- Solomon Islands and Singapore with 27 days of fully closed school status were in the top for the “shortest fully closed” status. 
+- The majority of school closures happened between March-29 to April-12 in 2020 for this category
+
+<div>
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/b6a69ec7-e246-4b72-838b-2111e5f45a0b" alt="Image 1" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/43d9f04d-d311-431b-af8a-5025c7d7b2a5" alt="Image 2" width="450" />
+</div>
+
+- Algeria and Croatia with 14 days of partially opened school status were in the top for the “shortest partially opened” status. 
+- The shortest partially opened duration was observed in June 2020 and Nov 2020 for Croatia and Algeria
+
+<img width="974" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/14e2e8c0-339a-4d27-8d18-69ba5aa296f9">
+
+Belarus, Burundi, Nauru and Tajikistan did not have school closures due to Covid-19
+
+The trend of the global school closures status for different statuses were observed with the help of time series graphs (below). The school closures became more prevalent from March to July-2020 when pandemic was on the rise. In September, a reversal in trends emerged and around 100 countries opened schools fully, while about 50 countries opened schools partially and around 25 countries kept their schools fully shut
+
+Source: https://data.unicef.org/resources/one-year-of-covid-19-and-school-closures/
+
+<img width="974" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/b06e869c-89ea-41e8-b73f-596d8c6ab422">
+
+![image](https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/8f15a36b-e4ca-4b56-9f51-b0b085a8885c)
 
 
 Project Git Repository link - https://github.com/cheerspankaj/MADS_Milestone-1
