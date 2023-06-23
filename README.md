@@ -29,16 +29,16 @@ Link: https://data.worldbank.org/indicator/NY.GDP.MKTP.CN
 
 The data manipulation steps include:
 
-1.Load the excel and CSV file into a pandas dataframe.
-2.Explored missing values in the datasets by missingno library and pandas function.
-3.Converting the date column to pandas’ date time format.
-4.Clean the dataframe by filtering out specific countries of interest in the Primary dataset.
-5.Renaming the Country ID column to “Status Count”.
-6.Performed Split, Apply and Combine techniques to create appropriate result set for top10 analysis.
-7.Created dataframes with status = “Closed due to COVID-19”, Partially open, Closed due to COVID- 19, Partially open. Restricted the list of countries to top 10.
-8.Slice the main GDP dataframe with only "Country Name”, “Country Code", "2020"
-9.Slice the UNESCO school closure dataset to keep columns 'Date’, ‘Country ID','Country','Status
-10.Merge the UNESCO and GDP dataframe using 'Country ID’ and 'Country Code'.
+1. Load the excel and CSV file into a pandas dataframe.
+2. Explored missing values in the datasets by missingno library and pandas function.
+3. Converting the date column to pandas’ date time format.
+4. Clean the dataframe by filtering out specific countries of interest in the Primary dataset.
+5. Renaming the Country ID column to “Status Count”.
+6. Performed Split, Apply and Combine techniques to create appropriate result set for top10 analysis.
+7. Created dataframes with status = “Closed due to COVID-19”, Partially open, Closed due to COVID- 19, Partially open. Restricted the list of countries to top 10.
+8. Slice the main GDP dataframe with only "Country Name”, “Country Code", "2020"
+9. Slice the UNESCO school closure dataset to keep columns 'Date’, ‘Country ID','Country','Status
+10. Merge the UNESCO and GDP dataframe using 'Country ID’ and 'Country Code'.
 
 
 ## Analysis and Visualizations
@@ -47,13 +47,16 @@ Following analysis and data visualizations were created for understanding the sc
 
 <img width="935" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731">
 
-Bangladesh has been highly impacted with 439 days of Fully Closed school.
+Bangladesh has been highly impacted with 439 days of Fully Closed school
 
 <img width="999" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15">
 
-Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021.
+Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021
 
 
+<img width="910" alt="image" src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a86c80b-d273-4e75-8fab-9b8d40baff63">
+
+The United States has been highly impacted with 465 days of “Partially Opened” school
 
 
 
