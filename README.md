@@ -46,16 +46,16 @@ The data manipulation steps include:
 Following analysis and data visualizations were created for understanding the school closures impact.
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731" alt="Image 1" width="550" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15" alt="Image 2" width="550" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731" alt="Image 1" width="650" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15" alt="Image 2" width="650" />
 </div>
 
 - Bangladesh has been highly impacted with 439 days of Fully Closed school
 - Panama had the longest continued fully closed schools for more than 3 quarters between March-2020 and January-2021
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a86c80b-d273-4e75-8fab-9b8d40baff63" alt="Image 1" width="450" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/69a5dcc3-f83b-401b-b96e-fd176e453cce" alt="Image 2" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a86c80b-d273-4e75-8fab-9b8d40baff63" alt="Image 1" width="650" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/69a5dcc3-f83b-401b-b96e-fd176e453cce" alt="Image 2" width="650" />
 </div>
 
 
@@ -63,16 +63,16 @@ Following analysis and data visualizations were created for understanding the sc
 - Duration wise the United States, Argentina, and Colombia had longest continued partially opened status for close to 3 quarters
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/1520f09b-9b37-4a2d-a116-0fdba3ad10df" alt="Image 1" width="450" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a8369a1-142d-44ae-86dd-fbfc5f4ba52d" alt="Image 2" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/1520f09b-9b37-4a2d-a116-0fdba3ad10df" alt="Image 1" width="650" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0a8369a1-142d-44ae-86dd-fbfc5f4ba52d" alt="Image 2" width="650" />
 </div>
 
 - Solomon Islands and Singapore with 27 days of fully closed school status were in the top for the “shortest fully closed” status. 
 - The majority of school closures happened between March-29 to April-12 in 2020 for this category
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/b6a69ec7-e246-4b72-838b-2111e5f45a0b" alt="Image 1" width="450" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/43d9f04d-d311-431b-af8a-5025c7d7b2a5" alt="Image 2" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/b6a69ec7-e246-4b72-838b-2111e5f45a0b" alt="Image 1" width="650" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/43d9f04d-d311-431b-af8a-5025c7d7b2a5" alt="Image 2" width="650" />
 </div>
 
 - Algeria and Croatia with 14 days of partially opened school status were in the top for the “shortest partially opened” status. 
@@ -93,8 +93,8 @@ Source: https://data.unicef.org/resources/one-year-of-covid-19-and-school-closur
 ### Children Days Fully Closed Impacted By Shutdowns
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/3c61f9f7-ee6f-4a17-9675-0511af6b505c" alt="Image 1" width="450" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/c68adaa1-29c0-4cbb-a401-f508556bbc82" alt="Image 2" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/3c61f9f7-ee6f-4a17-9675-0511af6b505c" alt="Image 1" width="650" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/c68adaa1-29c0-4cbb-a401-f508556bbc82" alt="Image 2" width="650" />
 </div>
 
 Globally 289.5 Billion Student-Days were impacted due to fully closed schools as of October 31, 2021
@@ -102,8 +102,8 @@ Globally 289.5 Billion Student-Days were impacted due to fully closed schools as
 ### Correlation Between School Closure vs Relative GDP
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/c5af4f7e-53f8-468b-b7e6-23598c9e8db4" alt="Image 1" width="450" height="300" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/809471a7-8ac7-440c-a82a-99cfb5b3f8b2" alt="Image 2" width="450" height="300" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/c5af4f7e-53f8-468b-b7e6-23598c9e8db4" alt="Image 1" width="650" height="300" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/809471a7-8ac7-440c-a82a-99cfb5b3f8b2" alt="Image 2" width="650" height="300" />
 </div>
 
 - Based on correlation matrix and value of Correlation coefficient (R), there seems to be a weak positive correlation between GDP and School closure.
