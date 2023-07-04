@@ -46,8 +46,8 @@ The data manipulation steps include:
 Following analysis and data visualizations were created for understanding the school closures impact.
 
 <div>
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731" alt="Image 1" width="450" />
-    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15" alt="Image 2" width="450" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/0f0d974f-52e0-49ae-85a2-7887abdee731" alt="Image 1" width="550" />
+    <img src="https://github.com/cheerspankaj/MADS_Milestone-1/assets/82276130/ad06dbc8-8607-4315-9219-f833452fbf15" alt="Image 2" width="550" />
 </div>
 
 - Bangladesh has been highly impacted with 439 days of Fully Closed school
